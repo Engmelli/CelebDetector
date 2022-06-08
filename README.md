@@ -6,4 +6,4 @@ A program that you can train to reconginze faces through webcams, videos, or ima
 - How to use OpenCV 
 - Reading and working with different media files
 - 
-![My image]([https://ibb.co/3W2P9fF](https://github.com/Engmelli/CelebDetector/blob/main/model%201.PNG))
+![Screenshot](model 4.PNG)
